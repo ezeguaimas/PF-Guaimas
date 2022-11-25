@@ -274,7 +274,7 @@ footer {
   text-shadow: 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white, 0 0 0.2em white;
 }
 
-.h1-propio {
+.h1-index {
   text-align: center;
   font-family: "Vollkorn", serif;
   font-weight: 600;
@@ -343,7 +343,7 @@ main p {
   font-style: italic;
 }
 
-.h2-titulo {
+.h1-titulo {
   text-align: center;
   margin: 3%;
 }
