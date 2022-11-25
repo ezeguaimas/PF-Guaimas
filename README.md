@@ -4,7 +4,6 @@ Links
 
 Repositorio GitHub
 https://github.com/ezeguaimas/PF-Guaimas
-https://github.com/ezeguaimas/PF-Guaimas.git
 
 Servidor GitHub
 https://ezeguaimas.github.io/PF-Guaimas/
